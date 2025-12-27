@@ -32,5 +32,5 @@ No active development — kept for documentation and personal growth tracking.
 **NuerisCore**  
 Physics • AI • GameDev  
 
-YouTube: [[link](https://youtube.com/channel/UC9tkLMP-mpi883nc5ktMYNg)]  
-Telegram: [[link](https://t.me/fomooe)]
+YouTube: [[My YouTube Channel](https://youtube.com/channel/UC9tkLMP-mpi883nc5ktMYNg)]  
+Telegram: [[My Telegram](https://t.me/fomooe)]
