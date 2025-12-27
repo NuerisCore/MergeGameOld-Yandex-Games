@@ -35,8 +35,5 @@ Perfect for players who enjoy calm gameplay, satisfying merges, and casual progr
 
 ## 📸 Screenshots & Media
 
-> Screenshots, GIFs, and gameplay videos will be added here.
-
-```md
 ![Gameplay Screenshot](media/screenshot1.png)
 ![Merge Example](media/merge.gif)
