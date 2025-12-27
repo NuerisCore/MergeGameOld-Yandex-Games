@@ -1,39 +1,36 @@
-# 🍔 Merge Kitchen — Relaxing 2D Merge Game
+# Merge Game (Legacy Project) 🧩
 
-**Merge Kitchen** is a relaxing 2D merge game focused on fast food cooking.  
-Combine ingredients, discover new food items, and progress through multiple cozy levels at your own pace.
+An archived **2D merge game** project originally created for **Yandex Games**.
 
-Perfect for players who enjoy calm gameplay, satisfying merges, and casual progression.
+### About the Project
+- **Engine:** Unity  
+- **Language:** C#  
+- **Platform:** WebGL (Yandex Games)
 
----
-
-## 🎮 Gameplay Features
-
-- 🧩 **Merge Mechanics**  
-  Combine identical ingredients to create new food items.
-
-- 🍟 **Fast Food Cooking Theme**  
-  Burgers, fries, and more!
-
-- 😌 **Relaxing & Casual**  
-  No timers, no stress — just chill merging.
-
-- 🗺️ **10 Levels**  
-  Each level introduces ingredients and combinations.
-
-- 🎨 **2D Visual Style**  
-  Clean and simple visuals made for comfort.
-
----
-
-## 🛠️ Controls
-
-- 🖱️ Drag ingredients to merge them
-- 📱 Designed to be simple and intuitive
-
----
-
-## 📸 Screenshots & Media
-
+## 📸 Screenshots
 ![Gameplay Screenshot](media/screenshot1.png)
 ![Merge Example](media/merge.gif)
+
+### Description
+This is one of my early game development projects.  
+The game is a relaxing 2D merge experience focused on **fast food cooking**:
+players merge ingredients to create complete meals across **10 levels**.
+
+This project was mainly a learning experience where I practiced:
+- Merge-based gameplay logic  
+- Progression systems  
+- Integration with the Yandex Games SDK  
+
+The code is preserved in its original state as part of my personal development history.
+
+### Status
+🗃️ **Legacy / Archive project**  
+No active development — kept for documentation and personal growth tracking.
+
+---
+
+**NuerisCore**  
+Physics • AI • GameDev  
+
+YouTube: [[link](https://youtube.com/channel/UC9tkLMP-mpi883nc5ktMYNg)]  
+Telegram: [[link](https://t.me/fomooe)]
